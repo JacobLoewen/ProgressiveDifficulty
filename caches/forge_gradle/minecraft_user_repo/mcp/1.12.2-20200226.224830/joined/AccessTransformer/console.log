@@ -1,0 +1,5 @@
+JVM Args:    
+Run Args:    "--inJar", "C:\Users\jacob\Desktop\FileCabinet\Coding\Modding\1.12.2\caches\forge_gradle\minecraft_user_repo\mcp\1.12.2-20200226.224830\joined\mcinject\output.jar", "--outJar", "C:\Users\jacob\Desktop\FileCabinet\Coding\Modding\1.12.2\caches\forge_gradle\minecraft_user_repo\mcp\1.12.2-20200226.224830\joined\AccessTransformer\output.jar", "--atFile", "C:\Users\jacob\AppData\Local\Temp\FG_ats_4058113579810687193.cfg"
+Classpath:   C:\Users\jacob\Desktop\FileCabinet\Coding\Modding\1.12.2\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
+Working Dir: C:\Users\jacob\Desktop\FileCabinet\Coding\Modding\1.12.2\caches\forge_gradle\minecraft_user_repo\mcp\1.12.2-20200226.224830\joined\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

@@ -43,7 +43,7 @@ public class DisplayCountdown extends TimerTask {
         } else {
             //Minecraft.getMinecraft().player.sendMessage(new TextComponentString("Countdown Finished"));
             creeper.ignite();
-            //Minecraft.getMinecraft().player.sendMessage(new TextComponentString("Creeper IDs (removal): "));
+            //Minecraft.getMinecraft().player.sendMessage(new TextComponentString("Creeper IDs (removal):"));
             int c2 = 0;
             for(int ID : IDs){
                 //Minecraft.getMinecraft().player.sendMessage(new TextComponentString("" + creeperID));

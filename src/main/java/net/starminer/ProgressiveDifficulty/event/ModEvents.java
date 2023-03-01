@@ -20,8 +20,7 @@ public class ModEvents {
     static Timer timer;
     public static int[] IDs = new int[50];
     public static int IDc = 0;
-    //Make a system that takes the IDs of creepers and iterates through to see if their ID is
-    //in progress
+    //Make a system that takes the IDs of creepers and iterates through to see if their ID is in progress
     @SubscribeEvent
     //This MUST be static
     public static void onLivingUpdate(LivingEvent.LivingUpdateEvent event) {
